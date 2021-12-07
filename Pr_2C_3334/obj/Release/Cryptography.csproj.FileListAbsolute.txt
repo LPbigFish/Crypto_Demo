@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\bin\Release\Pr_2C_3334.exe.config
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\bin\Release\Pr_2C_3334.exe
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\bin\Release\Pr_2C_3334.pdb
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Pr_2C_3334.Form1.resources
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Pr_2C_3334.Properties.Resources.resources
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Cryptography.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Pr_2C_3334.exe
+C:\Users\student\source\repos\Pr_2C_3334\Pr_2C_3334\obj\Release\Pr_2C_3334.pdb
